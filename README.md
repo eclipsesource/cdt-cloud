@@ -1,3 +1,5 @@
+**This repository moved to https://github.com/eclipse-cdt-cloud/cdt-cloud**
+
 # CDT.cloud Blueprint
 CDT.cloud Blueprint is a template tool for building custom, web-based C/C++ tools. It is made of existing open source components and provides a typical C/C++ IDE based on the Eclipse Theia platform. Please see more information on the [project homepage](https://cdt-cloud.io)
 
